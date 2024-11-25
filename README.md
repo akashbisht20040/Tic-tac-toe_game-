@@ -26,6 +26,39 @@ This is a **Tic-Tac-Toe** game built using Python's `tkinter` library. It allows
 
 ---
 
+## Installation
+
+Follow these steps to install and run the application:
+
+1. **Clone or Download the Repository**:
+   - Clone the repository using:
+     ```bash
+     git clone https://github.com/your-username/tic-tac-toe.git
+     ```
+   - Alternatively, download the ZIP file and extract it.
+
+2. **Install Python**:
+   - Ensure Python 3.x is installed on your system. You can download it from [python.org](https://www.python.org/).
+
+3. **Verify `tkinter`**:
+   - `tkinter` is pre-installed with Python in most distributions. Verify its availability by running:
+     ```bash
+     python -m tkinter
+     ```
+   - If a blank window opens, `tkinter` is properly installed.
+
+4. **Run the Script**:
+   - Navigate to the directory containing the script:
+     ```bash
+     cd tic-tac-toe
+     ```
+   - Run the application:
+     ```bash
+     python tic_tac_toe.py
+     ```
+
+---
+
 ## How to Use
 
 1. **Run the Program**:

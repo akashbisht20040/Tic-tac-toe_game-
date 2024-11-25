@@ -121,6 +121,7 @@ You can modify the following:
 
 ---
 
+# Screen shots
 ## License
 
 Feel free to use and modify the code for personal or educational purposes. Contributions and suggestions are welcome!

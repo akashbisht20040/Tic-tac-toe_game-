@@ -128,7 +128,4 @@ You can modify the following:
 
 
 
-## License
 
-
-Feel free to use and modify the code for personal or educational purposes. Contributions and suggestions are welcome!

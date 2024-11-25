@@ -1,4 +1,3 @@
-# Tic-tac-toe_game-
 # Tic-Tac-Toe Application
 
 This is a **Tic-Tac-Toe** game built using Python's `tkinter` library. It allows two players to compete in a simple, visually appealing game, with features like score tracking, player name customization, and restart/reset functionality.

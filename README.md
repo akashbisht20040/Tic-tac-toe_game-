@@ -122,6 +122,13 @@ You can modify the following:
 ---
 
 # Screen shots
+![Screenshot 2024-11-25 203324](https://github.com/user-attachments/assets/66a53576-e7e4-45f3-87a0-663724b5163b)
+![Screenshot 2024-11-25 203348](https://github.com/user-attachments/assets/6c5b7ed8-137e-4645-bc09-ee093bbd4aef)
+![Screenshot 2024-11-25 203446](https://github.com/user-attachments/assets/45ed02bd-6603-4188-9356-bad5079af3f4)
+
+
+
 ## License
+
 
 Feel free to use and modify the code for personal or educational purposes. Contributions and suggestions are welcome!
